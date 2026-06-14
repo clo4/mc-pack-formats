@@ -1,0 +1,8592 @@
+{
+  "generated": "2026-06-14T04:18:04.701Z",
+  "source": "https://piston-meta.mojang.com/mc/game/version_manifest_v2.json",
+  "entries": [
+    {
+      "id": "18w47b",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1913,
+      "protocolVersion": 447,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "18w48a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1914,
+      "protocolVersion": 448,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "18w48b",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1915,
+      "protocolVersion": 449,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "18w49a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1916,
+      "protocolVersion": 450,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "18w50a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1919,
+      "protocolVersion": 451,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w02a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1921,
+      "protocolVersion": 452,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w03a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1922,
+      "protocolVersion": 453,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w03b",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1923,
+      "protocolVersion": 454,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w03c",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1924,
+      "protocolVersion": 455,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w04a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1926,
+      "protocolVersion": 456,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w04b",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1927,
+      "protocolVersion": 457,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w05a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1930,
+      "protocolVersion": 458,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w06a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1931,
+      "protocolVersion": 459,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w07a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1932,
+      "protocolVersion": 460,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w08a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1933,
+      "protocolVersion": 461,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w08b",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1934,
+      "protocolVersion": 462,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w09a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1935,
+      "protocolVersion": 463,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w11a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1937,
+      "protocolVersion": 464,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w11b",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1938,
+      "protocolVersion": 465,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w12a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1940,
+      "protocolVersion": 466,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w12b",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1941,
+      "protocolVersion": 467,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w13a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1942,
+      "protocolVersion": 468,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w13b",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1943,
+      "protocolVersion": 469,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "3D Shareware v1.34",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1943,
+      "protocolVersion": 1,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w14a",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1944,
+      "protocolVersion": 470,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w14b",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1945,
+      "protocolVersion": 471,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14 Pre-Release 1",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1947,
+      "protocolVersion": 472,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14 Pre-Release 2",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1948,
+      "protocolVersion": 473,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14 Pre-Release 3",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1949,
+      "protocolVersion": 474,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14 Pre-Release 4",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1950,
+      "protocolVersion": 475,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14 Pre-Release 5",
+      "type": "snapshot",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1951,
+      "protocolVersion": 476,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14",
+      "type": "release",
+      "releaseTarget": "1.14",
+      "stable": false,
+      "worldVersion": 1952,
+      "protocolVersion": 477,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.1 Pre-Release 1",
+      "type": "snapshot",
+      "releaseTarget": "1.14.1",
+      "stable": false,
+      "worldVersion": 1955,
+      "protocolVersion": 478,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.1 Pre-Release 2",
+      "type": "snapshot",
+      "releaseTarget": "1.14.1",
+      "stable": false,
+      "worldVersion": 1956,
+      "protocolVersion": 479,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.1",
+      "type": "release",
+      "releaseTarget": "1.14.1",
+      "stable": false,
+      "worldVersion": 1957,
+      "protocolVersion": 480,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.2 Pre-Release 1",
+      "type": "snapshot",
+      "releaseTarget": "1.14.2",
+      "stable": false,
+      "worldVersion": 1958,
+      "protocolVersion": 481,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.2 Pre-Release 2",
+      "type": "snapshot",
+      "releaseTarget": "1.14.2",
+      "stable": false,
+      "worldVersion": 1959,
+      "protocolVersion": 482,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.2 Pre-Release 3",
+      "type": "snapshot",
+      "releaseTarget": "1.14.2",
+      "stable": false,
+      "worldVersion": 1960,
+      "protocolVersion": 483,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.2 Pre-Release 4",
+      "type": "snapshot",
+      "releaseTarget": "1.14.2",
+      "stable": false,
+      "worldVersion": 1962,
+      "protocolVersion": 484,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.2",
+      "type": "release",
+      "releaseTarget": "1.14.2",
+      "stable": true,
+      "worldVersion": 1963,
+      "protocolVersion": 485,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.3-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.14.3",
+      "stable": false,
+      "worldVersion": 1964,
+      "protocolVersion": 486,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.3-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.14.3",
+      "stable": false,
+      "worldVersion": 1965,
+      "protocolVersion": 487,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.3-pre3",
+      "type": "snapshot",
+      "releaseTarget": "1.14.3",
+      "stable": false,
+      "worldVersion": 1966,
+      "protocolVersion": 488,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.3-pre4",
+      "type": "snapshot",
+      "releaseTarget": "1.14.3",
+      "stable": false,
+      "worldVersion": 1967,
+      "protocolVersion": 489,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.3",
+      "type": "release",
+      "releaseTarget": "1.14.3",
+      "stable": true,
+      "worldVersion": 1968,
+      "protocolVersion": 490,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.4-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.14.4",
+      "stable": false,
+      "worldVersion": 1969,
+      "protocolVersion": 491,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.4-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.14.4",
+      "stable": false,
+      "worldVersion": 1970,
+      "protocolVersion": 492,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.4-pre3",
+      "type": "snapshot",
+      "releaseTarget": "1.14.4",
+      "stable": false,
+      "worldVersion": 1971,
+      "protocolVersion": 493,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.4-pre4",
+      "type": "snapshot",
+      "releaseTarget": "1.14.4",
+      "stable": false,
+      "worldVersion": 1972,
+      "protocolVersion": 494,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.4-pre5",
+      "type": "snapshot",
+      "releaseTarget": "1.14.4",
+      "stable": false,
+      "worldVersion": 1973,
+      "protocolVersion": 495,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.4-pre6",
+      "type": "snapshot",
+      "releaseTarget": "1.14.4",
+      "stable": false,
+      "worldVersion": 1974,
+      "protocolVersion": 496,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.4-pre7",
+      "type": "snapshot",
+      "releaseTarget": "1.14.4",
+      "stable": false,
+      "worldVersion": 1975,
+      "protocolVersion": 497,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.14.4",
+      "type": "release",
+      "releaseTarget": "1.14.4",
+      "stable": true,
+      "worldVersion": 1976,
+      "protocolVersion": 498,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w34a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2200,
+      "protocolVersion": 550,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w35a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2201,
+      "protocolVersion": 551,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w36a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2203,
+      "protocolVersion": 552,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w37a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2204,
+      "protocolVersion": 553,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w38a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2205,
+      "protocolVersion": 554,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w38b",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2206,
+      "protocolVersion": 555,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w39a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2207,
+      "protocolVersion": 556,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w40a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2208,
+      "protocolVersion": 557,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w41a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2210,
+      "protocolVersion": 558,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w42a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2212,
+      "protocolVersion": 559,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w44a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2213,
+      "protocolVersion": 560,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w45a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2214,
+      "protocolVersion": 561,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w45b",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2215,
+      "protocolVersion": 562,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w46a",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2216,
+      "protocolVersion": 563,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "19w46b",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2217,
+      "protocolVersion": 564,
+      "packFormat": {
+        "data": {
+          "major": 4,
+          "minor": 0
+        },
+        "resource": {
+          "major": 4,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2218,
+      "protocolVersion": 565,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2219,
+      "protocolVersion": 566,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15-pre3",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2220,
+      "protocolVersion": 567,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15-pre4",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2221,
+      "protocolVersion": 569,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15-pre5",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2222,
+      "protocolVersion": 570,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15-pre6",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2223,
+      "protocolVersion": 571,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15-pre7",
+      "type": "snapshot",
+      "releaseTarget": "1.15",
+      "stable": false,
+      "worldVersion": 2224,
+      "protocolVersion": 572,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15",
+      "type": "release",
+      "releaseTarget": "1.15",
+      "stable": true,
+      "worldVersion": 2225,
+      "protocolVersion": 573,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15.1-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.15.1",
+      "stable": false,
+      "worldVersion": 2226,
+      "protocolVersion": 574,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15.1",
+      "type": "release",
+      "releaseTarget": "1.15.1",
+      "stable": true,
+      "worldVersion": 2227,
+      "protocolVersion": 575,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15.2-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.15.2",
+      "stable": true,
+      "worldVersion": 2228,
+      "protocolVersion": 576,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15.2-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.15.2",
+      "stable": false,
+      "worldVersion": 2229,
+      "protocolVersion": 577,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.15.2",
+      "type": "release",
+      "releaseTarget": "1.15.2",
+      "stable": true,
+      "worldVersion": 2230,
+      "protocolVersion": 578,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w06a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2504,
+      "protocolVersion": 701,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w07a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2506,
+      "protocolVersion": 702,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w08a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2507,
+      "protocolVersion": 703,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w09a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2510,
+      "protocolVersion": 704,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w10a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2512,
+      "protocolVersion": 705,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w11a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2513,
+      "protocolVersion": 706,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w12a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2515,
+      "protocolVersion": 707,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w13a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2520,
+      "protocolVersion": 708,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w13b",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2521,
+      "protocolVersion": 709,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w14infinite",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2522,
+      "protocolVersion": 709,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w14a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2524,
+      "protocolVersion": 710,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w15a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2525,
+      "protocolVersion": 711,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w16a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2526,
+      "protocolVersion": 712,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w17a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2529,
+      "protocolVersion": 713,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w18a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2532,
+      "protocolVersion": 714,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w19a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2534,
+      "protocolVersion": 715,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w20a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2536,
+      "protocolVersion": 716,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w20b",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2537,
+      "protocolVersion": 717,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w21a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2554,
+      "protocolVersion": 718,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w22a",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2555,
+      "protocolVersion": 719,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2556,
+      "protocolVersion": 721,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2557,
+      "protocolVersion": 722,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16-pre3",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2559,
+      "protocolVersion": 725,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16-pre4",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2560,
+      "protocolVersion": 727,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16-pre5",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2561,
+      "protocolVersion": 729,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16-pre6",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2562,
+      "protocolVersion": 730,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16-pre7",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2563,
+      "protocolVersion": 732,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16-pre8",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2564,
+      "protocolVersion": 733,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.16",
+      "stable": false,
+      "worldVersion": 2565,
+      "protocolVersion": 734,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16",
+      "type": "release",
+      "releaseTarget": "1.16",
+      "stable": true,
+      "worldVersion": 2566,
+      "protocolVersion": 735,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.1",
+      "type": "release",
+      "releaseTarget": "1.16.1",
+      "stable": true,
+      "worldVersion": 2567,
+      "protocolVersion": 736,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w27a",
+      "type": "snapshot",
+      "releaseTarget": "1.16.2",
+      "stable": false,
+      "worldVersion": 2569,
+      "protocolVersion": 738,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w28a",
+      "type": "snapshot",
+      "releaseTarget": "1.16.2",
+      "stable": false,
+      "worldVersion": 2570,
+      "protocolVersion": 740,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w29a",
+      "type": "snapshot",
+      "releaseTarget": "1.16.2",
+      "stable": false,
+      "worldVersion": 2571,
+      "protocolVersion": 741,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w30a",
+      "type": "snapshot",
+      "releaseTarget": "1.16.2",
+      "stable": false,
+      "worldVersion": 2572,
+      "protocolVersion": 743,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.2-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.16.2",
+      "stable": false,
+      "worldVersion": 2573,
+      "protocolVersion": 744,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.2-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.16.2",
+      "stable": false,
+      "worldVersion": 2574,
+      "protocolVersion": 746,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.2-pre3",
+      "type": "snapshot",
+      "releaseTarget": "1.16.2",
+      "stable": false,
+      "worldVersion": 2575,
+      "protocolVersion": 748,
+      "packFormat": {
+        "data": {
+          "major": 5,
+          "minor": 0
+        },
+        "resource": {
+          "major": 5,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.2-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.16.2",
+      "stable": false,
+      "worldVersion": 2576,
+      "protocolVersion": 749,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 6,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.2-rc2",
+      "type": "snapshot",
+      "releaseTarget": "1.16.2",
+      "stable": false,
+      "worldVersion": 2577,
+      "protocolVersion": 750,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 6,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.2",
+      "type": "release",
+      "releaseTarget": "1.16.2",
+      "stable": true,
+      "worldVersion": 2578,
+      "protocolVersion": 751,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 6,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.3-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.16.3",
+      "stable": false,
+      "worldVersion": 2579,
+      "protocolVersion": 752,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 6,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.3",
+      "type": "release",
+      "releaseTarget": "1.16.3",
+      "stable": true,
+      "worldVersion": 2580,
+      "protocolVersion": 753,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 6,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.4-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.16.4",
+      "stable": false,
+      "worldVersion": 2581,
+      "protocolVersion": 1073741825,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 6,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.4-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.16.4",
+      "stable": false,
+      "worldVersion": 2582,
+      "protocolVersion": 1073741826,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 6,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.4-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.16.4",
+      "stable": false,
+      "worldVersion": 2583,
+      "protocolVersion": 1073741827,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 6,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.4",
+      "type": "release",
+      "releaseTarget": "1.16.4",
+      "stable": true,
+      "worldVersion": 2584,
+      "protocolVersion": 754,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 6,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.5-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.16.5",
+      "stable": false,
+      "worldVersion": 2585,
+      "protocolVersion": 1073741834,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 6,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.16.5",
+      "type": "release",
+      "releaseTarget": "1.16.5",
+      "stable": true,
+      "worldVersion": 2586,
+      "protocolVersion": 754,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 6,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w45a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2681,
+      "protocolVersion": 1073741829,
+      "packFormat": {
+        "data": {
+          "major": 6,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w46a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2682,
+      "protocolVersion": 1073741830,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w48a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2683,
+      "protocolVersion": 1073741831,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w49a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2685,
+      "protocolVersion": 1073741832,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "20w51a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2687,
+      "protocolVersion": 1073741833,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w03a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2689,
+      "protocolVersion": 1073741835,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w05a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2690,
+      "protocolVersion": 1073741836,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w05b",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2692,
+      "protocolVersion": 1073741837,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w06a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2694,
+      "protocolVersion": 1073741838,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w07a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2695,
+      "protocolVersion": 1073741839,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w08a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2697,
+      "protocolVersion": 1073741840,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w08b",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2698,
+      "protocolVersion": 1073741841,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w10a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2699,
+      "protocolVersion": 1073741842,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w11a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2703,
+      "protocolVersion": 1073741843,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w13a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2705,
+      "protocolVersion": 1073741844,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w14a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2706,
+      "protocolVersion": 1073741845,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w15a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2709,
+      "protocolVersion": 1073741846,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w16a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2711,
+      "protocolVersion": 1073741847,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w17a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2712,
+      "protocolVersion": 1073741849,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w18a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2713,
+      "protocolVersion": 1073741850,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w19a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2714,
+      "protocolVersion": 1073741851,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w20a",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2715,
+      "protocolVersion": 1073741852,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2716,
+      "protocolVersion": 1073741853,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2718,
+      "protocolVersion": 1073741854,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17-pre3",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2719,
+      "protocolVersion": 1073741855,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17-pre4",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2720,
+      "protocolVersion": 1073741856,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17-pre5",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2721,
+      "protocolVersion": 1073741857,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2722,
+      "protocolVersion": 1073741858,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17-rc2",
+      "type": "snapshot",
+      "releaseTarget": "1.17",
+      "stable": false,
+      "worldVersion": 2723,
+      "protocolVersion": 1073741859,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17",
+      "type": "release",
+      "releaseTarget": "1.17",
+      "stable": true,
+      "worldVersion": 2724,
+      "protocolVersion": 755,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17.1-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.17.1",
+      "stable": false,
+      "worldVersion": 2725,
+      "protocolVersion": 1073741860,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17.1-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.17.1",
+      "stable": false,
+      "worldVersion": 2726,
+      "protocolVersion": 1073741861,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17.1-pre3",
+      "type": "snapshot",
+      "releaseTarget": "1.17.1",
+      "stable": false,
+      "worldVersion": 2727,
+      "protocolVersion": 1073741862,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17.1-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.17.1",
+      "stable": false,
+      "worldVersion": 2728,
+      "protocolVersion": 1073741863,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17.1-rc2",
+      "type": "snapshot",
+      "releaseTarget": "1.17.1",
+      "stable": false,
+      "worldVersion": 2729,
+      "protocolVersion": 1073741864,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.17.1",
+      "type": "release",
+      "releaseTarget": "1.17.1",
+      "stable": true,
+      "worldVersion": 2730,
+      "protocolVersion": 756,
+      "packFormat": {
+        "data": {
+          "major": 7,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w37a",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2834,
+      "protocolVersion": 1073741865,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w38a",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2835,
+      "protocolVersion": 1073741866,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 7,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w39a",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2836,
+      "protocolVersion": 1073741867,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w40a",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2838,
+      "protocolVersion": 1073741868,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w41a",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2839,
+      "protocolVersion": 1073741869,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w42a",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2840,
+      "protocolVersion": 1073741870,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w43a",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2844,
+      "protocolVersion": 1073741871,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "21w44a",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2845,
+      "protocolVersion": 1073741872,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2847,
+      "protocolVersion": 1073741873,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2848,
+      "protocolVersion": 1073741874,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-pre3",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2849,
+      "protocolVersion": 1073741875,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-pre4",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2850,
+      "protocolVersion": 1073741876,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-pre5",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2851,
+      "protocolVersion": 1073741877,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-pre6",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2853,
+      "protocolVersion": 1073741878,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-pre7",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2854,
+      "protocolVersion": 1073741879,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-pre8",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2855,
+      "protocolVersion": 1073741880,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2856,
+      "protocolVersion": 1073741881,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-rc2",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2857,
+      "protocolVersion": 1073741882,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-rc3",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2858,
+      "protocolVersion": 1073741883,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18-rc4",
+      "type": "snapshot",
+      "releaseTarget": "1.18",
+      "stable": false,
+      "worldVersion": 2859,
+      "protocolVersion": 1073741884,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18",
+      "type": "release",
+      "releaseTarget": "1.18",
+      "stable": true,
+      "worldVersion": 2860,
+      "protocolVersion": 757,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18.1-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.18.1",
+      "stable": false,
+      "worldVersion": 2861,
+      "protocolVersion": 1073741885,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18.1-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.18.1",
+      "stable": false,
+      "worldVersion": 2862,
+      "protocolVersion": 1073741886,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18.1-rc2",
+      "type": "snapshot",
+      "releaseTarget": "1.18.1",
+      "stable": false,
+      "worldVersion": 2863,
+      "protocolVersion": 1073741887,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18.1-rc3",
+      "type": "snapshot",
+      "releaseTarget": "1.18.1",
+      "stable": false,
+      "worldVersion": 2864,
+      "protocolVersion": 1073741888,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18.1",
+      "type": "release",
+      "releaseTarget": "1.18.1",
+      "stable": true,
+      "worldVersion": 2865,
+      "protocolVersion": 757,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w03a",
+      "type": "snapshot",
+      "releaseTarget": "1.18.2",
+      "stable": false,
+      "worldVersion": 2966,
+      "protocolVersion": 1073741889,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w05a",
+      "type": "snapshot",
+      "releaseTarget": "1.18.2",
+      "stable": false,
+      "worldVersion": 2967,
+      "protocolVersion": 1073741890,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w06a",
+      "type": "snapshot",
+      "releaseTarget": "1.18.2",
+      "stable": false,
+      "worldVersion": 2968,
+      "protocolVersion": 1073741891,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w07a",
+      "type": "snapshot",
+      "releaseTarget": "1.18.2",
+      "stable": false,
+      "worldVersion": 2969,
+      "protocolVersion": 1073741892,
+      "packFormat": {
+        "data": {
+          "major": 8,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18.2-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.18.2",
+      "stable": false,
+      "worldVersion": 2971,
+      "protocolVersion": 1073741894,
+      "packFormat": {
+        "data": {
+          "major": 9,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18.2-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.18.2",
+      "stable": false,
+      "worldVersion": 2972,
+      "protocolVersion": 1073741895,
+      "packFormat": {
+        "data": {
+          "major": 9,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18.2-pre3",
+      "type": "snapshot",
+      "releaseTarget": "1.18.2",
+      "stable": false,
+      "worldVersion": 2973,
+      "protocolVersion": 1073741896,
+      "packFormat": {
+        "data": {
+          "major": 9,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18.2-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.18.2",
+      "stable": false,
+      "worldVersion": 2974,
+      "protocolVersion": 1073741897,
+      "packFormat": {
+        "data": {
+          "major": 9,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.18.2",
+      "type": "release",
+      "releaseTarget": "1.18.2",
+      "stable": true,
+      "worldVersion": 2975,
+      "protocolVersion": 758,
+      "packFormat": {
+        "data": {
+          "major": 9,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w13oneblockatatime",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3076,
+      "protocolVersion": 1073741901,
+      "packFormat": {
+        "data": {
+          "major": 9,
+          "minor": 0
+        },
+        "resource": {
+          "major": 8,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w11a",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3080,
+      "protocolVersion": 1073741898,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w12a",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3082,
+      "protocolVersion": 1073741899,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w13a",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3085,
+      "protocolVersion": 1073741900,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w14a",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3088,
+      "protocolVersion": 1073741902,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w15a",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3089,
+      "protocolVersion": 1073741903,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w16a",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3091,
+      "protocolVersion": 1073741904,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w16b",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3092,
+      "protocolVersion": 1073741905,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w17a",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3093,
+      "protocolVersion": 1073741906,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w18a",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3095,
+      "protocolVersion": 1073741907,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w19a",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3096,
+      "protocolVersion": 1073741908,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3098,
+      "protocolVersion": 1073741909,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3099,
+      "protocolVersion": 1073741910,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19-pre3",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3100,
+      "protocolVersion": 1073741911,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19-pre4",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3101,
+      "protocolVersion": 1073741912,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19-pre5",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3102,
+      "protocolVersion": 1073741913,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3103,
+      "protocolVersion": 1073741914,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19-rc2",
+      "type": "snapshot",
+      "releaseTarget": "1.19",
+      "stable": false,
+      "worldVersion": 3104,
+      "protocolVersion": 1073741915,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19",
+      "type": "release",
+      "releaseTarget": "1.19",
+      "stable": true,
+      "worldVersion": 3105,
+      "protocolVersion": 759,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w24a",
+      "type": "snapshot",
+      "releaseTarget": "1.19.1",
+      "stable": false,
+      "worldVersion": 3106,
+      "protocolVersion": 1073741916,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.1-pre1",
+      "type": "snapshot",
+      "releaseTarget": "1.19.1",
+      "stable": false,
+      "worldVersion": 3107,
+      "protocolVersion": 1073741917,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.1-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.19.1",
+      "stable": false,
+      "worldVersion": 3109,
+      "protocolVersion": 1073741918,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.1-pre2",
+      "type": "snapshot",
+      "releaseTarget": "1.19.1",
+      "stable": false,
+      "worldVersion": 3110,
+      "protocolVersion": 1073741919,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.1-pre3",
+      "type": "snapshot",
+      "releaseTarget": "1.19.1",
+      "stable": false,
+      "worldVersion": 3111,
+      "protocolVersion": 1073741920,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.1-pre4",
+      "type": "snapshot",
+      "releaseTarget": "1.19.1",
+      "stable": false,
+      "worldVersion": 3112,
+      "protocolVersion": 1073741921,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.1-pre5",
+      "type": "snapshot",
+      "releaseTarget": "1.19.1",
+      "stable": false,
+      "worldVersion": 3113,
+      "protocolVersion": 1073741922,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.1-pre6",
+      "type": "snapshot",
+      "releaseTarget": "1.19.1",
+      "stable": false,
+      "worldVersion": 3114,
+      "protocolVersion": 1073741923,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.1-rc2",
+      "type": "snapshot",
+      "releaseTarget": "1.19.1",
+      "stable": false,
+      "worldVersion": 3115,
+      "protocolVersion": 1073741924,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.1-rc3",
+      "type": "snapshot",
+      "releaseTarget": "1.19.1",
+      "stable": false,
+      "worldVersion": 3116,
+      "protocolVersion": 1073741925,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.1",
+      "type": "release",
+      "releaseTarget": "1.19.1",
+      "stable": true,
+      "worldVersion": 3117,
+      "protocolVersion": 760,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.2-rc1",
+      "type": "snapshot",
+      "releaseTarget": "1.19.2",
+      "stable": false,
+      "worldVersion": 3118,
+      "protocolVersion": 1073741926,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.2-rc2",
+      "type": "snapshot",
+      "releaseTarget": "1.19.2",
+      "stable": false,
+      "worldVersion": 3119,
+      "protocolVersion": 1073741927,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.2",
+      "type": "release",
+      "releaseTarget": "1.19.2",
+      "stable": true,
+      "worldVersion": 3120,
+      "protocolVersion": 760,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 9,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w42a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3205,
+      "protocolVersion": 1073741928,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 11,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w43a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3206,
+      "protocolVersion": 1073741929,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 11,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w44a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3207,
+      "protocolVersion": 1073741930,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 11,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w45a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3208,
+      "protocolVersion": 1073741931,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "22w46a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3210,
+      "protocolVersion": 1073741932,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.3-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3211,
+      "protocolVersion": 1073741933,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.3-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3212,
+      "protocolVersion": 1073741934,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.3-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3213,
+      "protocolVersion": 1073741935,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.3-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3215,
+      "protocolVersion": 1073741936,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.3-rc2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3216,
+      "protocolVersion": 1073741937,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.3-rc3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3217,
+      "protocolVersion": 1073741938,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.3",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 3218,
+      "protocolVersion": 761,
+      "packFormat": {
+        "data": {
+          "major": 10,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w03a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3320,
+      "protocolVersion": 1073741939,
+      "packFormat": {
+        "data": {
+          "major": 11,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w04a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3321,
+      "protocolVersion": 1073741940,
+      "packFormat": {
+        "data": {
+          "major": 11,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w05a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3323,
+      "protocolVersion": 1073741941,
+      "packFormat": {
+        "data": {
+          "major": 11,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w06a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3326,
+      "protocolVersion": 1073741942,
+      "packFormat": {
+        "data": {
+          "major": 12,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w07a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3329,
+      "protocolVersion": 1073741943,
+      "packFormat": {
+        "data": {
+          "major": 12,
+          "minor": 0
+        },
+        "resource": {
+          "major": 12,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.4-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3330,
+      "protocolVersion": 1073741944,
+      "packFormat": {
+        "data": {
+          "major": 12,
+          "minor": 0
+        },
+        "resource": {
+          "major": 13,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.4-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3331,
+      "protocolVersion": 1073741945,
+      "packFormat": {
+        "data": {
+          "major": 12,
+          "minor": 0
+        },
+        "resource": {
+          "major": 13,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.4-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3332,
+      "protocolVersion": 1073741946,
+      "packFormat": {
+        "data": {
+          "major": 12,
+          "minor": 0
+        },
+        "resource": {
+          "major": 13,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.4-pre4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3333,
+      "protocolVersion": 1073741947,
+      "packFormat": {
+        "data": {
+          "major": 12,
+          "minor": 0
+        },
+        "resource": {
+          "major": 13,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.4-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3334,
+      "protocolVersion": 1073741948,
+      "packFormat": {
+        "data": {
+          "major": 12,
+          "minor": 0
+        },
+        "resource": {
+          "major": 13,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.4-rc2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3335,
+      "protocolVersion": 1073741949,
+      "packFormat": {
+        "data": {
+          "major": 12,
+          "minor": 0
+        },
+        "resource": {
+          "major": 13,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.4-rc3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3336,
+      "protocolVersion": 1073741950,
+      "packFormat": {
+        "data": {
+          "major": 12,
+          "minor": 0
+        },
+        "resource": {
+          "major": 13,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.19.4",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 3337,
+      "protocolVersion": 762,
+      "packFormat": {
+        "data": {
+          "major": 12,
+          "minor": 0
+        },
+        "resource": {
+          "major": 13,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w12a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3442,
+      "protocolVersion": 1073741951,
+      "packFormat": {
+        "data": {
+          "major": 13,
+          "minor": 0
+        },
+        "resource": {
+          "major": 13,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w13a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3443,
+      "protocolVersion": 1073741952,
+      "packFormat": {
+        "data": {
+          "major": 13,
+          "minor": 0
+        },
+        "resource": {
+          "major": 13,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w13a_or_b",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3444,
+      "protocolVersion": 1073741953,
+      "packFormat": {
+        "data": {
+          "major": 13,
+          "minor": 0
+        },
+        "resource": {
+          "major": 13,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w14a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3445,
+      "protocolVersion": 1073741954,
+      "packFormat": {
+        "data": {
+          "major": 13,
+          "minor": 0
+        },
+        "resource": {
+          "major": 14,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w16a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3449,
+      "protocolVersion": 1073741955,
+      "packFormat": {
+        "data": {
+          "major": 14,
+          "minor": 0
+        },
+        "resource": {
+          "major": 14,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w17a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3452,
+      "protocolVersion": 1073741956,
+      "packFormat": {
+        "data": {
+          "major": 14,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w18a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3453,
+      "protocolVersion": 1073741957,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3454,
+      "protocolVersion": 1073741958,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3455,
+      "protocolVersion": 1073741959,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3456,
+      "protocolVersion": 1073741960,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20-pre4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3457,
+      "protocolVersion": 1073741961,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20-pre5",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3458,
+      "protocolVersion": 1073741962,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20-pre6",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3460,
+      "protocolVersion": 1073741963,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20-pre7",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3461,
+      "protocolVersion": 1073741964,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3462,
+      "protocolVersion": 1073741965,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 3463,
+      "protocolVersion": 763,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.1-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3464,
+      "protocolVersion": 1073741966,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.1",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 3465,
+      "protocolVersion": 763,
+      "packFormat": {
+        "data": {
+          "major": 15,
+          "minor": 0
+        },
+        "resource": {
+          "major": 15,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w31a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3567,
+      "protocolVersion": 1073741968,
+      "packFormat": {
+        "data": {
+          "major": 16,
+          "minor": 0
+        },
+        "resource": {
+          "major": 16,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w32a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3569,
+      "protocolVersion": 1073741969,
+      "packFormat": {
+        "data": {
+          "major": 17,
+          "minor": 0
+        },
+        "resource": {
+          "major": 17,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w33a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3570,
+      "protocolVersion": 1073741970,
+      "packFormat": {
+        "data": {
+          "major": 17,
+          "minor": 0
+        },
+        "resource": {
+          "major": 17,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w35a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3571,
+      "protocolVersion": 1073741971,
+      "packFormat": {
+        "data": {
+          "major": 17,
+          "minor": 0
+        },
+        "resource": {
+          "major": 17,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.2-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3572,
+      "protocolVersion": 1073741972,
+      "packFormat": {
+        "data": {
+          "major": 18,
+          "minor": 0
+        },
+        "resource": {
+          "major": 17,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.2-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3573,
+      "protocolVersion": 1073741973,
+      "packFormat": {
+        "data": {
+          "major": 18,
+          "minor": 0
+        },
+        "resource": {
+          "major": 18,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.2-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3574,
+      "protocolVersion": 1073741974,
+      "packFormat": {
+        "data": {
+          "major": 18,
+          "minor": 0
+        },
+        "resource": {
+          "major": 18,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.2-pre4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3575,
+      "protocolVersion": 1073741975,
+      "packFormat": {
+        "data": {
+          "major": 18,
+          "minor": 0
+        },
+        "resource": {
+          "major": 18,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.2-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3576,
+      "protocolVersion": 1073741976,
+      "packFormat": {
+        "data": {
+          "major": 18,
+          "minor": 0
+        },
+        "resource": {
+          "major": 18,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.2-rc2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3577,
+      "protocolVersion": 1073741977,
+      "packFormat": {
+        "data": {
+          "major": 18,
+          "minor": 0
+        },
+        "resource": {
+          "major": 18,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.2",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 3578,
+      "protocolVersion": 764,
+      "packFormat": {
+        "data": {
+          "major": 18,
+          "minor": 0
+        },
+        "resource": {
+          "major": 18,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w40a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3679,
+      "protocolVersion": 1073741978,
+      "packFormat": {
+        "data": {
+          "major": 19,
+          "minor": 0
+        },
+        "resource": {
+          "major": 18,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w41a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3681,
+      "protocolVersion": 1073741980,
+      "packFormat": {
+        "data": {
+          "major": 20,
+          "minor": 0
+        },
+        "resource": {
+          "major": 18,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w42a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3684,
+      "protocolVersion": 1073741981,
+      "packFormat": {
+        "data": {
+          "major": 21,
+          "minor": 0
+        },
+        "resource": {
+          "major": 19,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w43a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3686,
+      "protocolVersion": 1073741983,
+      "packFormat": {
+        "data": {
+          "major": 22,
+          "minor": 0
+        },
+        "resource": {
+          "major": 20,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w43b",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3687,
+      "protocolVersion": 1073741984,
+      "packFormat": {
+        "data": {
+          "major": 22,
+          "minor": 0
+        },
+        "resource": {
+          "major": 20,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w44a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3688,
+      "protocolVersion": 1073741985,
+      "packFormat": {
+        "data": {
+          "major": 23,
+          "minor": 0
+        },
+        "resource": {
+          "major": 20,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w45a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3690,
+      "protocolVersion": 1073741986,
+      "packFormat": {
+        "data": {
+          "major": 24,
+          "minor": 0
+        },
+        "resource": {
+          "major": 21,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w46a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3691,
+      "protocolVersion": 1073741987,
+      "packFormat": {
+        "data": {
+          "major": 25,
+          "minor": 0
+        },
+        "resource": {
+          "major": 21,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.3-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3693,
+      "protocolVersion": 1073741988,
+      "packFormat": {
+        "data": {
+          "major": 26,
+          "minor": 0
+        },
+        "resource": {
+          "major": 22,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.3-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3694,
+      "protocolVersion": 1073741989,
+      "packFormat": {
+        "data": {
+          "major": 26,
+          "minor": 0
+        },
+        "resource": {
+          "major": 22,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.3-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3695,
+      "protocolVersion": 1073741990,
+      "packFormat": {
+        "data": {
+          "major": 26,
+          "minor": 0
+        },
+        "resource": {
+          "major": 22,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.3-pre4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3696,
+      "protocolVersion": 1073741991,
+      "packFormat": {
+        "data": {
+          "major": 26,
+          "minor": 0
+        },
+        "resource": {
+          "major": 22,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.3-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3697,
+      "protocolVersion": 1073741992,
+      "packFormat": {
+        "data": {
+          "major": 26,
+          "minor": 0
+        },
+        "resource": {
+          "major": 22,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.3",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 3698,
+      "protocolVersion": 765,
+      "packFormat": {
+        "data": {
+          "major": 26,
+          "minor": 0
+        },
+        "resource": {
+          "major": 22,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.4-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3699,
+      "protocolVersion": 1073741993,
+      "packFormat": {
+        "data": {
+          "major": 26,
+          "minor": 0
+        },
+        "resource": {
+          "major": 22,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.4",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 3700,
+      "protocolVersion": 765,
+      "packFormat": {
+        "data": {
+          "major": 26,
+          "minor": 0
+        },
+        "resource": {
+          "major": 22,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w51a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3801,
+      "protocolVersion": 1073741993,
+      "packFormat": {
+        "data": {
+          "major": 27,
+          "minor": 0
+        },
+        "resource": {
+          "major": 22,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "23w51b",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3802,
+      "protocolVersion": 1073741994,
+      "packFormat": {
+        "data": {
+          "major": 27,
+          "minor": 0
+        },
+        "resource": {
+          "major": 22,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w03a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3804,
+      "protocolVersion": 1073741995,
+      "packFormat": {
+        "data": {
+          "major": 28,
+          "minor": 0
+        },
+        "resource": {
+          "major": 24,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w03b",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3805,
+      "protocolVersion": 1073741996,
+      "packFormat": {
+        "data": {
+          "major": 28,
+          "minor": 0
+        },
+        "resource": {
+          "major": 24,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w04a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3806,
+      "protocolVersion": 1073741997,
+      "packFormat": {
+        "data": {
+          "major": 29,
+          "minor": 0
+        },
+        "resource": {
+          "major": 24,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w05a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3809,
+      "protocolVersion": 1073741997,
+      "packFormat": {
+        "data": {
+          "major": 30,
+          "minor": 0
+        },
+        "resource": {
+          "major": 25,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w05b",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3811,
+      "protocolVersion": 1073741999,
+      "packFormat": {
+        "data": {
+          "major": 30,
+          "minor": 0
+        },
+        "resource": {
+          "major": 25,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w06a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3815,
+      "protocolVersion": 1073742000,
+      "packFormat": {
+        "data": {
+          "major": 31,
+          "minor": 0
+        },
+        "resource": {
+          "major": 26,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w07a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3817,
+      "protocolVersion": 1073742001,
+      "packFormat": {
+        "data": {
+          "major": 32,
+          "minor": 0
+        },
+        "resource": {
+          "major": 26,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w09a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3819,
+      "protocolVersion": 1073742002,
+      "packFormat": {
+        "data": {
+          "major": 33,
+          "minor": 0
+        },
+        "resource": {
+          "major": 28,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w10a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3821,
+      "protocolVersion": 1073742003,
+      "packFormat": {
+        "data": {
+          "major": 34,
+          "minor": 0
+        },
+        "resource": {
+          "major": 28,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w11a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3823,
+      "protocolVersion": 1073742004,
+      "packFormat": {
+        "data": {
+          "major": 35,
+          "minor": 0
+        },
+        "resource": {
+          "major": 29,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w12a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3824,
+      "protocolVersion": 1073742005,
+      "packFormat": {
+        "data": {
+          "major": 36,
+          "minor": 0
+        },
+        "resource": {
+          "major": 30,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w14potato",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3824,
+      "protocolVersion": 1073742007,
+      "packFormat": {
+        "data": {
+          "major": 36,
+          "minor": 0
+        },
+        "resource": {
+          "major": 30,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w13a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3826,
+      "protocolVersion": 1073742006,
+      "packFormat": {
+        "data": {
+          "major": 37,
+          "minor": 0
+        },
+        "resource": {
+          "major": 31,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w14a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3827,
+      "protocolVersion": 1073742008,
+      "packFormat": {
+        "data": {
+          "major": 38,
+          "minor": 0
+        },
+        "resource": {
+          "major": 31,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.5-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3829,
+      "protocolVersion": 1073742009,
+      "packFormat": {
+        "data": {
+          "major": 39,
+          "minor": 0
+        },
+        "resource": {
+          "major": 31,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.5-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3830,
+      "protocolVersion": 1073742010,
+      "packFormat": {
+        "data": {
+          "major": 40,
+          "minor": 0
+        },
+        "resource": {
+          "major": 31,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.5-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3831,
+      "protocolVersion": 1073742011,
+      "packFormat": {
+        "data": {
+          "major": 41,
+          "minor": 0
+        },
+        "resource": {
+          "major": 31,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.5-pre4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3832,
+      "protocolVersion": 1073742012,
+      "packFormat": {
+        "data": {
+          "major": 41,
+          "minor": 0
+        },
+        "resource": {
+          "major": 32,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.5-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3834,
+      "protocolVersion": 1073742013,
+      "packFormat": {
+        "data": {
+          "major": 41,
+          "minor": 0
+        },
+        "resource": {
+          "major": 32,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.5-rc2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3835,
+      "protocolVersion": 1073742014,
+      "packFormat": {
+        "data": {
+          "major": 41,
+          "minor": 0
+        },
+        "resource": {
+          "major": 32,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.5-rc3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3836,
+      "protocolVersion": 1073742015,
+      "packFormat": {
+        "data": {
+          "major": 41,
+          "minor": 0
+        },
+        "resource": {
+          "major": 32,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.5",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 3837,
+      "protocolVersion": 766,
+      "packFormat": {
+        "data": {
+          "major": 41,
+          "minor": 0
+        },
+        "resource": {
+          "major": 32,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.6-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3838,
+      "protocolVersion": 1073742016,
+      "packFormat": {
+        "data": {
+          "major": 41,
+          "minor": 0
+        },
+        "resource": {
+          "major": 32,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.20.6",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 3839,
+      "protocolVersion": 766,
+      "packFormat": {
+        "data": {
+          "major": 41,
+          "minor": 0
+        },
+        "resource": {
+          "major": 32,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w18a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3940,
+      "protocolVersion": 1073742017,
+      "packFormat": {
+        "data": {
+          "major": 42,
+          "minor": 0
+        },
+        "resource": {
+          "major": 33,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w19a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3941,
+      "protocolVersion": 1073742018,
+      "packFormat": {
+        "data": {
+          "major": 43,
+          "minor": 0
+        },
+        "resource": {
+          "major": 33,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w19b",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3942,
+      "protocolVersion": 1073742019,
+      "packFormat": {
+        "data": {
+          "major": 43,
+          "minor": 0
+        },
+        "resource": {
+          "major": 33,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w20a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3944,
+      "protocolVersion": 1073742020,
+      "packFormat": {
+        "data": {
+          "major": 44,
+          "minor": 0
+        },
+        "resource": {
+          "major": 33,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w21a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3946,
+      "protocolVersion": 1073742021,
+      "packFormat": {
+        "data": {
+          "major": 45,
+          "minor": 0
+        },
+        "resource": {
+          "major": 34,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w21b",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3947,
+      "protocolVersion": 1073742022,
+      "packFormat": {
+        "data": {
+          "major": 45,
+          "minor": 0
+        },
+        "resource": {
+          "major": 34,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3948,
+      "protocolVersion": 1073742023,
+      "packFormat": {
+        "data": {
+          "major": 46,
+          "minor": 0
+        },
+        "resource": {
+          "major": 34,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3949,
+      "protocolVersion": 1073742024,
+      "packFormat": {
+        "data": {
+          "major": 47,
+          "minor": 0
+        },
+        "resource": {
+          "major": 34,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3950,
+      "protocolVersion": 1073742025,
+      "packFormat": {
+        "data": {
+          "major": 48,
+          "minor": 0
+        },
+        "resource": {
+          "major": 34,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21-pre4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3951,
+      "protocolVersion": 1073742026,
+      "packFormat": {
+        "data": {
+          "major": 48,
+          "minor": 0
+        },
+        "resource": {
+          "major": 34,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3952,
+      "protocolVersion": 1073742027,
+      "packFormat": {
+        "data": {
+          "major": 48,
+          "minor": 0
+        },
+        "resource": {
+          "major": 34,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 3953,
+      "protocolVersion": 767,
+      "packFormat": {
+        "data": {
+          "major": 48,
+          "minor": 0
+        },
+        "resource": {
+          "major": 34,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.1-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 3954,
+      "protocolVersion": 1073742028,
+      "packFormat": {
+        "data": {
+          "major": 48,
+          "minor": 0
+        },
+        "resource": {
+          "major": 34,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.1",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 3955,
+      "protocolVersion": 767,
+      "packFormat": {
+        "data": {
+          "major": 48,
+          "minor": 0
+        },
+        "resource": {
+          "major": 34,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w33a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4058,
+      "protocolVersion": 1073742029,
+      "packFormat": {
+        "data": {
+          "major": 49,
+          "minor": 0
+        },
+        "resource": {
+          "major": 35,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w34a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4060,
+      "protocolVersion": 1073742030,
+      "packFormat": {
+        "data": {
+          "major": 50,
+          "minor": 0
+        },
+        "resource": {
+          "major": 36,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w35a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4062,
+      "protocolVersion": 1073742031,
+      "packFormat": {
+        "data": {
+          "major": 51,
+          "minor": 0
+        },
+        "resource": {
+          "major": 36,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w36a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4063,
+      "protocolVersion": 1073742032,
+      "packFormat": {
+        "data": {
+          "major": 52,
+          "minor": 0
+        },
+        "resource": {
+          "major": 37,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w37a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4065,
+      "protocolVersion": 1073742033,
+      "packFormat": {
+        "data": {
+          "major": 53,
+          "minor": 0
+        },
+        "resource": {
+          "major": 38,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w38a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4066,
+      "protocolVersion": 1073742034,
+      "packFormat": {
+        "data": {
+          "major": 54,
+          "minor": 0
+        },
+        "resource": {
+          "major": 39,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w39a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4069,
+      "protocolVersion": 1073742035,
+      "packFormat": {
+        "data": {
+          "major": 55,
+          "minor": 0
+        },
+        "resource": {
+          "major": 39,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w40a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4072,
+      "protocolVersion": 1073742036,
+      "packFormat": {
+        "data": {
+          "major": 56,
+          "minor": 0
+        },
+        "resource": {
+          "major": 40,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.2-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4073,
+      "protocolVersion": 1073742037,
+      "packFormat": {
+        "data": {
+          "major": 57,
+          "minor": 0
+        },
+        "resource": {
+          "major": 41,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.2-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4074,
+      "protocolVersion": 1073742038,
+      "packFormat": {
+        "data": {
+          "major": 57,
+          "minor": 0
+        },
+        "resource": {
+          "major": 41,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.2-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4075,
+      "protocolVersion": 1073742039,
+      "packFormat": {
+        "data": {
+          "major": 57,
+          "minor": 0
+        },
+        "resource": {
+          "major": 42,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.2-pre4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4076,
+      "protocolVersion": 1073742040,
+      "packFormat": {
+        "data": {
+          "major": 57,
+          "minor": 0
+        },
+        "resource": {
+          "major": 42,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.2-pre5",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4077,
+      "protocolVersion": 1073742041,
+      "packFormat": {
+        "data": {
+          "major": 57,
+          "minor": 0
+        },
+        "resource": {
+          "major": 42,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.2-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4078,
+      "protocolVersion": 1073742042,
+      "packFormat": {
+        "data": {
+          "major": 57,
+          "minor": 0
+        },
+        "resource": {
+          "major": 42,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.2-rc2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4079,
+      "protocolVersion": 1073742043,
+      "packFormat": {
+        "data": {
+          "major": 57,
+          "minor": 0
+        },
+        "resource": {
+          "major": 42,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.2",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4080,
+      "protocolVersion": 768,
+      "packFormat": {
+        "data": {
+          "major": 57,
+          "minor": 0
+        },
+        "resource": {
+          "major": 42,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.3",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4082,
+      "protocolVersion": 768,
+      "packFormat": {
+        "data": {
+          "major": 57,
+          "minor": 0
+        },
+        "resource": {
+          "major": 42,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w44a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4174,
+      "protocolVersion": 1073742044,
+      "packFormat": {
+        "data": {
+          "major": 58,
+          "minor": 0
+        },
+        "resource": {
+          "major": 43,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w45a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4177,
+      "protocolVersion": 1073742045,
+      "packFormat": {
+        "data": {
+          "major": 59,
+          "minor": 0
+        },
+        "resource": {
+          "major": 44,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "24w46a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4178,
+      "protocolVersion": 1073742046,
+      "packFormat": {
+        "data": {
+          "major": 60,
+          "minor": 0
+        },
+        "resource": {
+          "major": 45,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.4-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4179,
+      "protocolVersion": 1073742047,
+      "packFormat": {
+        "data": {
+          "major": 60,
+          "minor": 0
+        },
+        "resource": {
+          "major": 46,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.4-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4182,
+      "protocolVersion": 1073742048,
+      "packFormat": {
+        "data": {
+          "major": 61,
+          "minor": 0
+        },
+        "resource": {
+          "major": 46,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.4-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4183,
+      "protocolVersion": 1073742049,
+      "packFormat": {
+        "data": {
+          "major": 61,
+          "minor": 0
+        },
+        "resource": {
+          "major": 46,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.4-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4184,
+      "protocolVersion": 1073742050,
+      "packFormat": {
+        "data": {
+          "major": 61,
+          "minor": 0
+        },
+        "resource": {
+          "major": 46,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.4-rc2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4186,
+      "protocolVersion": 1073742051,
+      "packFormat": {
+        "data": {
+          "major": 61,
+          "minor": 0
+        },
+        "resource": {
+          "major": 46,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.4-rc3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4188,
+      "protocolVersion": 1073742052,
+      "packFormat": {
+        "data": {
+          "major": 61,
+          "minor": 0
+        },
+        "resource": {
+          "major": 46,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.4",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4189,
+      "protocolVersion": 769,
+      "packFormat": {
+        "data": {
+          "major": 61,
+          "minor": 0
+        },
+        "resource": {
+          "major": 46,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w02a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4298,
+      "protocolVersion": 1073742053,
+      "packFormat": {
+        "data": {
+          "major": 62,
+          "minor": 0
+        },
+        "resource": {
+          "major": 47,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w03a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4304,
+      "protocolVersion": 1073742054,
+      "packFormat": {
+        "data": {
+          "major": 63,
+          "minor": 0
+        },
+        "resource": {
+          "major": 48,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w04a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4308,
+      "protocolVersion": 1073742055,
+      "packFormat": {
+        "data": {
+          "major": 64,
+          "minor": 0
+        },
+        "resource": {
+          "major": 49,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w05a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4310,
+      "protocolVersion": 1073742056,
+      "packFormat": {
+        "data": {
+          "major": 65,
+          "minor": 0
+        },
+        "resource": {
+          "major": 50,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w06a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4313,
+      "protocolVersion": 1073742057,
+      "packFormat": {
+        "data": {
+          "major": 66,
+          "minor": 0
+        },
+        "resource": {
+          "major": 51,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w07a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4315,
+      "protocolVersion": 1073742058,
+      "packFormat": {
+        "data": {
+          "major": 67,
+          "minor": 0
+        },
+        "resource": {
+          "major": 52,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w08a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4316,
+      "protocolVersion": 1073742059,
+      "packFormat": {
+        "data": {
+          "major": 68,
+          "minor": 0
+        },
+        "resource": {
+          "major": 53,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w09a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4317,
+      "protocolVersion": 1073742060,
+      "packFormat": {
+        "data": {
+          "major": 69,
+          "minor": 0
+        },
+        "resource": {
+          "major": 53,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w09b",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4318,
+      "protocolVersion": 1073742061,
+      "packFormat": {
+        "data": {
+          "major": 69,
+          "minor": 0
+        },
+        "resource": {
+          "major": 53,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w10a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4319,
+      "protocolVersion": 1073742062,
+      "packFormat": {
+        "data": {
+          "major": 70,
+          "minor": 0
+        },
+        "resource": {
+          "major": 54,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.5-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4320,
+      "protocolVersion": 1073742063,
+      "packFormat": {
+        "data": {
+          "major": 70,
+          "minor": 0
+        },
+        "resource": {
+          "major": 55,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.5-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4321,
+      "protocolVersion": 1073742064,
+      "packFormat": {
+        "data": {
+          "major": 71,
+          "minor": 0
+        },
+        "resource": {
+          "major": 55,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.5-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4322,
+      "protocolVersion": 1073742065,
+      "packFormat": {
+        "data": {
+          "major": 71,
+          "minor": 0
+        },
+        "resource": {
+          "major": 55,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.5-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4323,
+      "protocolVersion": 1073742066,
+      "packFormat": {
+        "data": {
+          "major": 71,
+          "minor": 0
+        },
+        "resource": {
+          "major": 55,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w14craftmine",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4323,
+      "protocolVersion": 1073742068,
+      "packFormat": {
+        "data": {
+          "major": 71,
+          "minor": 0
+        },
+        "resource": {
+          "major": 55,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.5-rc2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4324,
+      "protocolVersion": 1073742067,
+      "packFormat": {
+        "data": {
+          "major": 71,
+          "minor": 0
+        },
+        "resource": {
+          "major": 55,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.5",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4325,
+      "protocolVersion": 770,
+      "packFormat": {
+        "data": {
+          "major": 71,
+          "minor": 0
+        },
+        "resource": {
+          "major": 55,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w15a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4422,
+      "protocolVersion": 1073742069,
+      "packFormat": {
+        "data": {
+          "major": 72,
+          "minor": 0
+        },
+        "resource": {
+          "major": 56,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w16a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4423,
+      "protocolVersion": 1073742070,
+      "packFormat": {
+        "data": {
+          "major": 73,
+          "minor": 0
+        },
+        "resource": {
+          "major": 57,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w17a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4425,
+      "protocolVersion": 1073742071,
+      "packFormat": {
+        "data": {
+          "major": 74,
+          "minor": 0
+        },
+        "resource": {
+          "major": 58,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w18a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4426,
+      "protocolVersion": 1073742072,
+      "packFormat": {
+        "data": {
+          "major": 75,
+          "minor": 0
+        },
+        "resource": {
+          "major": 59,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w19a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4427,
+      "protocolVersion": 1073742073,
+      "packFormat": {
+        "data": {
+          "major": 76,
+          "minor": 0
+        },
+        "resource": {
+          "major": 60,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w20a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4428,
+      "protocolVersion": 1073742074,
+      "packFormat": {
+        "data": {
+          "major": 77,
+          "minor": 0
+        },
+        "resource": {
+          "major": 61,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w21a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4429,
+      "protocolVersion": 1073742075,
+      "packFormat": {
+        "data": {
+          "major": 78,
+          "minor": 0
+        },
+        "resource": {
+          "major": 62,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.6-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4430,
+      "protocolVersion": 1073742076,
+      "packFormat": {
+        "data": {
+          "major": 79,
+          "minor": 0
+        },
+        "resource": {
+          "major": 63,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.6-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4431,
+      "protocolVersion": 1073742077,
+      "packFormat": {
+        "data": {
+          "major": 79,
+          "minor": 0
+        },
+        "resource": {
+          "major": 63,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.6-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4432,
+      "protocolVersion": 1073742078,
+      "packFormat": {
+        "data": {
+          "major": 80,
+          "minor": 0
+        },
+        "resource": {
+          "major": 63,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.6-pre4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4433,
+      "protocolVersion": 1073742079,
+      "packFormat": {
+        "data": {
+          "major": 80,
+          "minor": 0
+        },
+        "resource": {
+          "major": 63,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.6-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4434,
+      "protocolVersion": 1073742080,
+      "packFormat": {
+        "data": {
+          "major": 80,
+          "minor": 0
+        },
+        "resource": {
+          "major": 63,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.6",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4435,
+      "protocolVersion": 771,
+      "packFormat": {
+        "data": {
+          "major": 80,
+          "minor": 0
+        },
+        "resource": {
+          "major": 63,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.7-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4436,
+      "protocolVersion": 1073742081,
+      "packFormat": {
+        "data": {
+          "major": 80,
+          "minor": 0
+        },
+        "resource": {
+          "major": 63,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.7-rc2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4437,
+      "protocolVersion": 1073742082,
+      "packFormat": {
+        "data": {
+          "major": 81,
+          "minor": 0
+        },
+        "resource": {
+          "major": 64,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.7",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4438,
+      "protocolVersion": 772,
+      "packFormat": {
+        "data": {
+          "major": 81,
+          "minor": 0
+        },
+        "resource": {
+          "major": 64,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.8-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4439,
+      "protocolVersion": 1073742083,
+      "packFormat": {
+        "data": {
+          "major": 81,
+          "minor": 0
+        },
+        "resource": {
+          "major": 64,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.8",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4440,
+      "protocolVersion": 772,
+      "packFormat": {
+        "data": {
+          "major": 81,
+          "minor": 0
+        },
+        "resource": {
+          "major": 64,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w31a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4534,
+      "protocolVersion": 1073742084,
+      "packFormat": {
+        "data": {
+          "major": 82,
+          "minor": 0
+        },
+        "resource": {
+          "major": 65,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w32a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4536,
+      "protocolVersion": 1073742085,
+      "packFormat": {
+        "data": {
+          "major": 83,
+          "minor": 0
+        },
+        "resource": {
+          "major": 65,
+          "minor": 1
+        }
+      }
+    },
+    {
+      "id": "25w33a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4538,
+      "protocolVersion": 1073742086,
+      "packFormat": {
+        "data": {
+          "major": 83,
+          "minor": 1
+        },
+        "resource": {
+          "major": 65,
+          "minor": 2
+        }
+      }
+    },
+    {
+      "id": "25w34a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4539,
+      "protocolVersion": 1073742087,
+      "packFormat": {
+        "data": {
+          "major": 84,
+          "minor": 0
+        },
+        "resource": {
+          "major": 66,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w34b",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4540,
+      "protocolVersion": 1073742088,
+      "packFormat": {
+        "data": {
+          "major": 84,
+          "minor": 0
+        },
+        "resource": {
+          "major": 66,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w35a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4542,
+      "protocolVersion": 1073742089,
+      "packFormat": {
+        "data": {
+          "major": 85,
+          "minor": 0
+        },
+        "resource": {
+          "major": 67,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w36a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4545,
+      "protocolVersion": 1073742090,
+      "packFormat": {
+        "data": {
+          "major": 86,
+          "minor": 0
+        },
+        "resource": {
+          "major": 68,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w36b",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4546,
+      "protocolVersion": 1073742091,
+      "packFormat": {
+        "data": {
+          "major": 86,
+          "minor": 0
+        },
+        "resource": {
+          "major": 68,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w37a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4547,
+      "protocolVersion": 1073742092,
+      "packFormat": {
+        "data": {
+          "major": 87,
+          "minor": 0
+        },
+        "resource": {
+          "major": 69,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.9-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4549,
+      "protocolVersion": 1073742093,
+      "packFormat": {
+        "data": {
+          "major": 87,
+          "minor": 1
+        },
+        "resource": {
+          "major": 69,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.9-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4550,
+      "protocolVersion": 1073742094,
+      "packFormat": {
+        "data": {
+          "major": 88,
+          "minor": 0
+        },
+        "resource": {
+          "major": 69,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.9-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4551,
+      "protocolVersion": 1073742095,
+      "packFormat": {
+        "data": {
+          "major": 88,
+          "minor": 0
+        },
+        "resource": {
+          "major": 69,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.9-pre4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4552,
+      "protocolVersion": 1073742096,
+      "packFormat": {
+        "data": {
+          "major": 88,
+          "minor": 0
+        },
+        "resource": {
+          "major": 69,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.9-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4553,
+      "protocolVersion": 1073742097,
+      "packFormat": {
+        "data": {
+          "major": 88,
+          "minor": 0
+        },
+        "resource": {
+          "major": 69,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.9",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4554,
+      "protocolVersion": 773,
+      "packFormat": {
+        "data": {
+          "major": 88,
+          "minor": 0
+        },
+        "resource": {
+          "major": 69,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.10-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4555,
+      "protocolVersion": 1073742098,
+      "packFormat": {
+        "data": {
+          "major": 88,
+          "minor": 0
+        },
+        "resource": {
+          "major": 69,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.10",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4556,
+      "protocolVersion": 773,
+      "packFormat": {
+        "data": {
+          "major": 88,
+          "minor": 0
+        },
+        "resource": {
+          "major": 69,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w41a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4653,
+      "protocolVersion": 1073742097,
+      "packFormat": {
+        "data": {
+          "major": 89,
+          "minor": 0
+        },
+        "resource": {
+          "major": 70,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w42a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4654,
+      "protocolVersion": 1073742098,
+      "packFormat": {
+        "data": {
+          "major": 90,
+          "minor": 0
+        },
+        "resource": {
+          "major": 70,
+          "minor": 1
+        }
+      }
+    },
+    {
+      "id": "25w43a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4655,
+      "protocolVersion": 1073742099,
+      "packFormat": {
+        "data": {
+          "major": 91,
+          "minor": 0
+        },
+        "resource": {
+          "major": 71,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w44a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4659,
+      "protocolVersion": 1073742100,
+      "packFormat": {
+        "data": {
+          "major": 92,
+          "minor": 0
+        },
+        "resource": {
+          "major": 72,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w45a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4660,
+      "protocolVersion": 1073742101,
+      "packFormat": {
+        "data": {
+          "major": 93,
+          "minor": 0
+        },
+        "resource": {
+          "major": 73,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "25w46a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4662,
+      "protocolVersion": 1073742102,
+      "packFormat": {
+        "data": {
+          "major": 93,
+          "minor": 1
+        },
+        "resource": {
+          "major": 74,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.11-pre1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4663,
+      "protocolVersion": 1073742103,
+      "packFormat": {
+        "data": {
+          "major": 94,
+          "minor": 0
+        },
+        "resource": {
+          "major": 75,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.11-pre2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4664,
+      "protocolVersion": 1073742104,
+      "packFormat": {
+        "data": {
+          "major": 94,
+          "minor": 0
+        },
+        "resource": {
+          "major": 75,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.11-pre3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4665,
+      "protocolVersion": 1073742105,
+      "packFormat": {
+        "data": {
+          "major": 94,
+          "minor": 0
+        },
+        "resource": {
+          "major": 75,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.11-pre4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4666,
+      "protocolVersion": 1073742106,
+      "packFormat": {
+        "data": {
+          "major": 94,
+          "minor": 1
+        },
+        "resource": {
+          "major": 75,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.11-pre5",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4667,
+      "protocolVersion": 1073742107,
+      "packFormat": {
+        "data": {
+          "major": 94,
+          "minor": 1
+        },
+        "resource": {
+          "major": 75,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.11-rc1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4668,
+      "protocolVersion": 1073742108,
+      "packFormat": {
+        "data": {
+          "major": 94,
+          "minor": 1
+        },
+        "resource": {
+          "major": 75,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.11-rc2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4669,
+      "protocolVersion": 1073742109,
+      "packFormat": {
+        "data": {
+          "major": 94,
+          "minor": 1
+        },
+        "resource": {
+          "major": 75,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.11-rc3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4670,
+      "protocolVersion": 1073742110,
+      "packFormat": {
+        "data": {
+          "major": 94,
+          "minor": 1
+        },
+        "resource": {
+          "major": 75,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "1.21.11",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4671,
+      "protocolVersion": 774,
+      "packFormat": {
+        "data": {
+          "major": 94,
+          "minor": 1
+        },
+        "resource": {
+          "major": 75,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-snapshot-1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4764,
+      "protocolVersion": 1073742111,
+      "packFormat": {
+        "data": {
+          "major": 95,
+          "minor": 0
+        },
+        "resource": {
+          "major": 76,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-snapshot-2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4765,
+      "protocolVersion": 1073742112,
+      "packFormat": {
+        "data": {
+          "major": 96,
+          "minor": 0
+        },
+        "resource": {
+          "major": 77,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-snapshot-3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4767,
+      "protocolVersion": 1073742113,
+      "packFormat": {
+        "data": {
+          "major": 97,
+          "minor": 0
+        },
+        "resource": {
+          "major": 78,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-snapshot-4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4768,
+      "protocolVersion": 1073742114,
+      "packFormat": {
+        "data": {
+          "major": 97,
+          "minor": 1
+        },
+        "resource": {
+          "major": 78,
+          "minor": 1
+        }
+      }
+    },
+    {
+      "id": "26.1-snapshot-5",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4770,
+      "protocolVersion": 1073742115,
+      "packFormat": {
+        "data": {
+          "major": 98,
+          "minor": 0
+        },
+        "resource": {
+          "major": 79,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-snapshot-6",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4774,
+      "protocolVersion": 1073742116,
+      "packFormat": {
+        "data": {
+          "major": 99,
+          "minor": 0
+        },
+        "resource": {
+          "major": 80,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-snapshot-7",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4775,
+      "protocolVersion": 1073742117,
+      "packFormat": {
+        "data": {
+          "major": 99,
+          "minor": 1
+        },
+        "resource": {
+          "major": 81,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-snapshot-8",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4776,
+      "protocolVersion": 1073742118,
+      "packFormat": {
+        "data": {
+          "major": 99,
+          "minor": 2
+        },
+        "resource": {
+          "major": 81,
+          "minor": 1
+        }
+      }
+    },
+    {
+      "id": "26.1-snapshot-9",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4777,
+      "protocolVersion": 1073742119,
+      "packFormat": {
+        "data": {
+          "major": 99,
+          "minor": 2
+        },
+        "resource": {
+          "major": 81,
+          "minor": 1
+        }
+      }
+    },
+    {
+      "id": "26.1-snapshot-10",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4778,
+      "protocolVersion": 1073742120,
+      "packFormat": {
+        "data": {
+          "major": 99,
+          "minor": 3
+        },
+        "resource": {
+          "major": 82,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-snapshot-11",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4779,
+      "protocolVersion": 1073742121,
+      "packFormat": {
+        "data": {
+          "major": 100,
+          "minor": 0
+        },
+        "resource": {
+          "major": 83,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-pre-1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4780,
+      "protocolVersion": 1073742122,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 0
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-pre-2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4781,
+      "protocolVersion": 1073742123,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 0
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-pre-3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4782,
+      "protocolVersion": 1073742124,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 1
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-rc-1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4783,
+      "protocolVersion": 1073742125,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 1
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-rc-2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4784,
+      "protocolVersion": 1073742126,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 1
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1-rc-3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4785,
+      "protocolVersion": 1073742127,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 1
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4786,
+      "protocolVersion": 775,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 1
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1.1-rc-1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4787,
+      "protocolVersion": 1073742128,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 1
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1.1",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4788,
+      "protocolVersion": 775,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 1
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1.2-rc-1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4789,
+      "protocolVersion": 1073742131,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 1
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.1.2",
+      "type": "release",
+      "releaseTarget": null,
+      "stable": true,
+      "worldVersion": 4790,
+      "protocolVersion": 775,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 1
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-snapshot-1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4883,
+      "protocolVersion": 1073742130,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 2
+        },
+        "resource": {
+          "major": 85,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-snapshot-2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4884,
+      "protocolVersion": 1073742132,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 2
+        },
+        "resource": {
+          "major": 85,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-snapshot-3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4886,
+      "protocolVersion": 1073742133,
+      "packFormat": {
+        "data": {
+          "major": 102,
+          "minor": 0
+        },
+        "resource": {
+          "major": 86,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-snapshot-4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4887,
+      "protocolVersion": 1073742134,
+      "packFormat": {
+        "data": {
+          "major": 103,
+          "minor": 0
+        },
+        "resource": {
+          "major": 86,
+          "minor": 1
+        }
+      }
+    },
+    {
+      "id": "26.2-snapshot-5",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4889,
+      "protocolVersion": 1073742135,
+      "packFormat": {
+        "data": {
+          "major": 104,
+          "minor": 0
+        },
+        "resource": {
+          "major": 86,
+          "minor": 2
+        }
+      }
+    },
+    {
+      "id": "26.2-snapshot-6",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4890,
+      "protocolVersion": 1073742136,
+      "packFormat": {
+        "data": {
+          "major": 105,
+          "minor": 0
+        },
+        "resource": {
+          "major": 86,
+          "minor": 2
+        }
+      }
+    },
+    {
+      "id": "26.2-snapshot-7",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4891,
+      "protocolVersion": 1073742137,
+      "packFormat": {
+        "data": {
+          "major": 105,
+          "minor": 1
+        },
+        "resource": {
+          "major": 87,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-snapshot-8",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4893,
+      "protocolVersion": 1073742138,
+      "packFormat": {
+        "data": {
+          "major": 106,
+          "minor": 0
+        },
+        "resource": {
+          "major": 87,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-pre-1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4894,
+      "protocolVersion": 1073742139,
+      "packFormat": {
+        "data": {
+          "major": 106,
+          "minor": 1
+        },
+        "resource": {
+          "major": 88,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-pre-2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4895,
+      "protocolVersion": 1073742140,
+      "packFormat": {
+        "data": {
+          "major": 107,
+          "minor": 0
+        },
+        "resource": {
+          "major": 88,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-pre-3",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4896,
+      "protocolVersion": 1073742141,
+      "packFormat": {
+        "data": {
+          "major": 107,
+          "minor": 0
+        },
+        "resource": {
+          "major": 88,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-pre-4",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4897,
+      "protocolVersion": 1073742142,
+      "packFormat": {
+        "data": {
+          "major": 107,
+          "minor": 1
+        },
+        "resource": {
+          "major": 88,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-pre-5",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4898,
+      "protocolVersion": 1073742143,
+      "packFormat": {
+        "data": {
+          "major": 107,
+          "minor": 1
+        },
+        "resource": {
+          "major": 88,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-pre-6",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4900,
+      "protocolVersion": 1073742144,
+      "packFormat": {
+        "data": {
+          "major": 107,
+          "minor": 1
+        },
+        "resource": {
+          "major": 88,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-rc-1",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4901,
+      "protocolVersion": 1073742145,
+      "packFormat": {
+        "data": {
+          "major": 107,
+          "minor": 1
+        },
+        "resource": {
+          "major": 88,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26.2-rc-2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 4902,
+      "protocolVersion": 1073742146,
+      "packFormat": {
+        "data": {
+          "major": 107,
+          "minor": 1
+        },
+        "resource": {
+          "major": 88,
+          "minor": 0
+        }
+      }
+    },
+    {
+      "id": "26w14a",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 5000,
+      "protocolVersion": 1073742129,
+      "packFormat": {
+        "data": {
+          "major": 101,
+          "minor": 1
+        },
+        "resource": {
+          "major": 84,
+          "minor": 0
+        }
+      }
+    }
+  ]
+}

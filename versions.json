@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-02T10:29:11.632Z",
+  "generated": "2026-09-05T09:53:55.577Z",
   "source": "https://piston-meta.mojang.com/mc/game/version_manifest_v2.json",
   "entries": [
     {
@@ -8796,6 +8796,24 @@
       "packFormat": {
         "data": {
           "major": 119,
+          "minor": 0
+        },
+        "resource": {
+          "major": 97,
+          "minor": 1
+        }
+      }
+    },
+    {
+      "id": "26.3-pre-2",
+      "type": "snapshot",
+      "releaseTarget": null,
+      "stable": false,
+      "worldVersion": 5018,
+      "protocolVersion": 1073742158,
+      "packFormat": {
+        "data": {
+          "major": 120,
           "minor": 0
         },
         "resource": {
